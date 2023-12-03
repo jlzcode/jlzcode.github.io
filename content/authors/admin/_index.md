@@ -146,7 +146,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Jiale_Zhang_CV.pdf
+    link: https://maipdf.com/est/d16228861205@pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
