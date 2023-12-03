@@ -29,9 +29,9 @@ bio: My research interests include AI in healthcare, Generative AI models, and M
 
 # Interests to show in About widget
 interests:
-  - AI in healthcare
-  - Computer Vision
+  - AI in Healthcare
   - Generative AI
+  - Machine Learning
 
 
 # Education to show in About widget
