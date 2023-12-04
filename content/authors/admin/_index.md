@@ -155,7 +155,7 @@ highlight_name: true
 Hello, I am **Jiale Zhang**. I obtained my Bachelor's in Information and Computing Sciences from [Shenzhen University](https://www.szu.edu.cn/) in 2019 and subsequently completed a Master's in Computer Science (Artificial Intelligence) from the [University of Leeds](https://leeds.ac.uk/) in 2020. For the next two years, I worked as an Algorithm and Application Research Engineer at [Mindray Bio-Medical Electronics](https://www.mindray.com/) in Shenzhen, where I acquired valuable industry experience.
 
 
-I am interested in researching **AI applications in healthcare**, **Generative AI models**, and **Machine Learning**.
+I am interested in researching **Application-driven AI**, **Generative AI models**, and **Machine Learning**.
 
 
 {style="text-align: justify;"}
