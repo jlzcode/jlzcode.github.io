@@ -1,5 +1,5 @@
 ---
-title: 'Jiale Zhang, Xiangyun Liao, Qiong Wang and Pheng-Ann Heng. Method and apparatus for Soft Tissue Motion Prediction: ZL202110345245.8 [P].2022-05-24.'
+title: 'Method and apparatus for Soft Tissue Motion Prediction'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -9,6 +9,7 @@ authors:
   - Xiangyun Liao
   - Qiong Wang
   - Pheng-Ann Heng
+  
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
@@ -26,8 +27,8 @@ publishDate: '2022-05-24T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-# publication: In *The 6th Chinese Conference on Pattern Recognition and Computer Vision*
-# publication_short: In *PRCV 2023*
+publication: Patent No. ZL202110345245.8[P]
+publication_short: Patent No. ZL202110345245.8[P]., China
 
 # abstract: 'Laparoscopic surgery offers minimally invasive procedures with better patient outcomes, but smoke presence challenges visibilityand safety. Existing learning-based methods demand large datasets andhigh computational resources. We propose the Progressive Frequency-Aware Network (PFAN), a lightweight GAN framework for laparoscopicimage desmoking, combining the strengths of CNN and Transformerfor progressive information extraction in the frequency domain. PFAN features CNN-based Multi-scale Bottleneck-Inverting (MBI) Blocks forcapturing local high-frequency information and Locally-Enhanced Axial Attention Transformers (LAT) for efficiently handling global low-frequency information. PFAN efficiently desmokes laparoscopic imageseven with limited training data. Our method outperforms state-of-the-art approaches in PSNR, SSIM, CIEDE2000, and visual quality on the Cholec80 dataset and retains only 629K parameters. Our code and models are made publicly available at \: https://github.com/jlzcode/PFAN.'
 

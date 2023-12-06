@@ -1,5 +1,5 @@
 ---
-title: "Bo Ye, Jiale Zhang, Chuanjian Wu, Tao Shi, Fangang Kong, Zhuxiang Yang. A Blood Analysis Device and Method for Species: PCT/CN2023/094636 [P/OL]. 2023-05-03"
+title: "A Blood Analysis Device and Method for Species"
 authors:
 - Bo Ye
 - Admin
@@ -19,9 +19,9 @@ publishDate: "2023-05-03T00:00:00Z"
 # # Enter a publication type from the CSL standard.
 # # publication_types: ["article"]
 
-# # Publication name and optional abbreviated publication name.
-# publication: ""
-# publication_short: ""
+# Publication name and optional abbreviated publication name.
+publication: 
+publication_short:  WIPO Patent Application PCT/CN2023/094636, filed on May 3, 2023 (Pending)
 
 # abstract: There is some fixed-pattern noise in the OCR text image and the denosing is needed to improve the accuracy of recognition. In this paper, a convolution-based approach for the fixed-pattern noise removal in OCR is proposed. The approach identifies the location of text content pixels and removes noise pixels based on the convolution kernel. The experiment shows that the approach is an effective way to remove the underline and improve the accuracy of recognition. For its generality, the algorithm is also applicable of removing other type of fixed-pattern noise.
 

@@ -83,7 +83,7 @@ sections:
         # exclude_featured: true
     design:
       columns: '2'
-      view: list
+      view: citation
   - block: experience
     id: experience
     content:
