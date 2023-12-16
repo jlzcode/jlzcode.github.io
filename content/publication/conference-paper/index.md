@@ -44,12 +44,12 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://github.com/jlzcode/PFAN/blob/main/Progressive%20Frequency-Aware%20Network%20for%20Laparoscopic%20Desmoking.pdf'
+url_pdf: ''
 url_code: 'https://github.com/jlzcode/PFAN'
 url_dataset: 'https://github.com/jlzcode/PFAN'
 url_poster: 'https://github.com/jlzcode/PFAN/blob/main/Poster.pdf'
 
-
+# https://github.com/jlzcode/PFAN/blob/main/Progressive%20Frequency-Aware%20Network%20for%20Laparoscopic%20Desmoking.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:

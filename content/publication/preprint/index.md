@@ -35,7 +35,8 @@ summary: A convolution-based approach is proposed to identify text pixels and re
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://github.com/jlzcode/A-Convolution-based-Approach-for-fixed-pattern-noise-removal-in-OCR/blob/main/A%20Convolution-based%20Approach%20for%20fixed-pattern%20noise%20removal%20in%20OCR.pdf
+url_pdf: 
+# https://github.com/jlzcode/A-Convolution-based-Approach-for-fixed-pattern-noise-removal-in-OCR/blob/main/A%20Convolution-based%20Approach%20for%20fixed-pattern%20noise%20removal%20in%20OCR.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
