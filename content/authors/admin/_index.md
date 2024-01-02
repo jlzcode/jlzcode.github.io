@@ -41,7 +41,7 @@ education:
       institution: University of Leeds, 2020
       year: GPA 3.55/4.0, Dissertation with Distinction
     - course: BSc in Information and Computing Sciences
-      institution: Shenzhen University, 2015
+      institution: Shenzhen University, 2019
       year: 
 
 # Skills
