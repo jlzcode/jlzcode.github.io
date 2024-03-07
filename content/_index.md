@@ -106,6 +106,17 @@ sections:
           date_end: '2023-11-01'
           description: |2-
               **AI for hematology analyzer:** Leveraging machine learning to enhance hematology analyzers, enabling cost-effective and rapid early diagnosis of sepsis through advanced blood cell counting and classification techniques.
+
+              **Project 1: Advancements in AI-Based Hematological Analysis**
+              - Developed a Class Activation Mapping (CAM)-based feature selection method for blood biomarkers, which streamlined algorithm design and optimization by reducing feature space 80%.
+
+              <br />
+              
+              **Project 2: Innovative Sepsis Diagnosis Research**
+              - Led research project on novel hematological parameters for early sepsis diagnosis.
+              - Implemented a targeted genetic algorithm, enabling precise identification of top N blood cell biomarkers.
+              - Developed a rule-based algorithm for optimal usage of biomarker panels in varied clinical scenarios, surpassing traditional single biomarker limitations.
+              - Outperformed current diagnostic methods (CRP\PCT) with superior accuracy (Acc 21%↑& AUC 14%↑), faster results, and cost-efficiency.              
         - title: Research Assistant
           company: Chinese Academy of Sciences | Shenzhen Institute of Advanced Technology
           company_url: 'https://www.siat.ac.cn/'
@@ -115,6 +126,18 @@ sections:
           date_end: '2021-07-20'
           description: |2-
               **AI in Surgical Enhancement:** Enhancing laparoscopic surgery by mitigating visibility issues due to smoke, and enabling precise tissue targeting in dynamic environments for ultrasound-guided HIFU therapy through advanced predictive modeling.
+
+              **Project 1: Efficient Model for Medical Image Enhancement**
+              - Led the development of the PFAN model, a lightweight GAN framework integrating CNN and Transformer based on frequency domain for desmoking laparoscopic images.
+              - Outperformed existing benchmarks in PSNR, SSIM, CIEDE2000, and visual effects.
+              - Research accepted by **PRCV 2023**.
+
+              <br />
+              
+              **Project 2: Spatiotemporal Model for Soft Tissue Motion Prediction**
+              - Developed STU-Net, an Encoder-Decoder framework utilizing spatial and temporal information in HIFU image sequences for improved motion prediction and segmentation.
+              - Achieved high performance metrics (98.65% BA, 94.32% Dice, 89.26% mIoU) with STU-Net and a prediction speed of 0.23 seconds, enabling real-time treatment adjustments.
+              - Culminated in a clinically applicable method, recognized with **CN Patent ZL202110345245.8**.
         - title: Data Analyst
           company: Dubit
           company_url: 'https://www.dubit.io/'
@@ -123,7 +146,36 @@ sections:
           date_start: '2020-02-01'
           date_end: '2021-09-01'
           description: |2-
-              **Data Mining in Social Media:** Utilizing machine learning and feature engineering to extract valuable information from social media data, enabling more effective ad targeting by identifying user preferences and trending topics.    
+              **Data Mining in Social Media:** Utilizing machine learning and feature engineering to extract valuable information from social media data, enabling more effective ad targeting by identifying user preferences and trending topics. 
+              
+              **Project: Innovative Advertisement Video Recognition Method**
+              - Extracted audiovisual features like spectogram and duration using FFmpeg instead of visual features for advertisement video identification, achieving 92% accuracy and 98% AUC through LightGBM model.
+              - Scripts still run in production today.  
+        - title: Co-Founder
+          company: Fastkey
+          company_url: ''
+          company_logo: 
+          location: Shenzhen, China
+          date_start: '2017-03-01'
+          date_end: '2019-02-01'
+          description: |2-
+              - Built and managed social media platforms catering specifically to college students, amassing over 600,000 active users.
+              - Built a toolbox that included useful tools like credit calculators and course reminders, helping students with their studies.    
+        - title: Research Assistant
+          company: Shenzhen University
+          company_url: 'https://www.szu.edu.cn/'
+          company_logo: 
+          location: Shenzhen, China
+          date_start: '2016-10-01'
+          date_end: '2017-11-01'
+          description: |2-
+              **Machine Translation:** Addressing the complexity of translating concise and allusion-rich ancient Chinese into understandable modern language through advanced neural network technology.         
+              
+              **Project: Neural Network for Machine Translation**
+              - Proposed a convolution-based fixed-pattern noise removal method to optimize text recognition of OCR. Method accepted by ICAIBD 2018.
+              - Build the largest parallel corpus of ancient Chinese and modern Chinese (78,000+ pairs) at that time.
+              - Proposed a Character-based DBRNN Model for Ancient-Modern Chinese Neural Machine Translation which outperforms state-of-the-art models in terms of BLEU. 
+              - Rated as **National Excellent Innovation and Entrepreneurship Project**.        
     design:
       columns: '2'
   - block: skills
