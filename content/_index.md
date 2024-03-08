@@ -159,7 +159,7 @@ sections:
           date_start: '2017-03-01'
           date_end: '2019-02-01'
           description: |2-
-              - Built and managed social media platforms catering specifically to college students, amassing over 600,000 active users.
+              - Built and managed social media platforms catering specifically to college students, amassing over 60,000 active users.
               - Built a toolbox that included useful tools like credit calculators and course reminders, helping students with their studies.    
         - title: Research Assistant
           company: Shenzhen University
