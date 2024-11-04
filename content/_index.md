@@ -97,7 +97,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Staff Algorithm Engineer
+        - title: Applied Scientist
           company: Dami & Xiaomi
           company_url: 'https://www.dmhxm.com/'
           company_logo: dxm
@@ -106,7 +106,7 @@ sections:
           date_end: '2024-08-01'
           description: |2-
               **AI for autism intervention:** Developing an integrated AI system for childhood autism that utilizes RAG and CoT technologies to generate evaluation reports, post-intervention plans, and personalized intervention strategies based on comprehensive patient data analysis.
-        - title: Algorithm Application and Research Engineer
+        - title: Applied Scientist
           company: Mindray
           company_url: 'https://www.mindray.com/en'
           company_logo: mindray

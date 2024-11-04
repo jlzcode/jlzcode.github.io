@@ -152,10 +152,9 @@ social:
 highlight_name: true
 ---
 
-Hello, I am **Jiale Zhang**. I obtained my Bachelor's in Information and Computing Sciences from [Shenzhen University](https://www.szu.edu.cn/) in 2019 and subsequently completed a Master's in Computer Science (Artificial Intelligence) from the [University of Leeds](https://leeds.ac.uk/) in 2020. For the next two years, I worked as an Algorithm and Application Research Engineer at [Mindray Bio-Medical Electronics](https://www.mindray.com/) in Shenzhen, where I acquired valuable industry experience.
+Hello, I am **Jiale Zhang**, an Applied Scientist with experience in healthcare-focused AI. Currently, I work at Dami and Xiaomi in Shenzhen, where I develop AI tools to support autism intervention. Previously, I worked at [Mindray Bio-Medical Electronics](https://www.mindray.com/), where I applied machine learning to improve blood testing for early sepsis detection. I hold an M.S. in Advanced Computer Science (Artificial Intelligence) from the  [University of Leeds](https://leeds.ac.uk/) and a B.S. in Information and Computing Sciences from [Shenzhen University](https://www.szu.edu.cn/).
 
-
-I am interested in researching **Human-Computer Interaction**, **Artificial Intelligence**, and **Machine Learning**.
+I am passionate about advancing research in **AI Agents**, **Large Language Models**, and **Human-Computer Interaction** and am eager to contribute to impactful innovations in these fields through a Ph.D.
 
 
 {style="text-align: justify;"}
