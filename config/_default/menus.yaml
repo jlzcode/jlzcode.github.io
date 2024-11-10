@@ -20,7 +20,7 @@ main:
     url: '#skills'
     weight: 40
   - name: CV
-    url: 'https://drive.google.com/file/d/1A7YcURWS51nmIyYY_1JbriybwhIxCzjV/view?usp=sharing'
+    url: 'https://drive.google.com/file/d/1tP9ePstEnt0lHtbHAnMAUvKPlGR-FNjo/view?usp=sharing'
     weight: 50
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
