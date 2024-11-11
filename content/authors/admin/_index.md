@@ -25,13 +25,14 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Human-Computer Interaction, Artificial Intelligence, and Machine Learning.
+bio: My research interests include AI Agents, Large Language Models, Medical Image Analysis and Human-Computer Interaction.
 
 # Interests to show in About widget
 interests:
+  - AI Agents
+  - Large Language Models
+  - Medical Image Analysis
   - Human-Computer Interaction
-  - Artificial Intelligence
-  - Machine Learning
 
 
 # Education to show in About widget
@@ -146,7 +147,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1tP9ePstEnt0lHtbHAnMAUvKPlGR-FNjo/view?usp=sharing
+    link: https://drive.google.com/file/d/1fxfDBHUep6HHi6BNCh3i6mOPoReTKtW8/view?usp=sharing
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -154,7 +155,7 @@ highlight_name: true
 
 Hello, I am **Jiale Zhang**, an Applied Scientist with experience in healthcare-focused AI. Currently, I work at Dami and Xiaomi in Shenzhen, where I develop AI tools to support autism intervention. Previously, I worked at [Mindray Bio-Medical Electronics](https://www.mindray.com/), where I applied machine learning to improve blood testing for early sepsis detection. I hold an M.S. in Computer Science from the  [University of Leeds](https://leeds.ac.uk/) (2020) and a B.S. in Information and Computing Sciences from [Shenzhen University](https://www.szu.edu.cn/) (2019).
 
-I am passionate about advancing research in **AI Agents**, **Large Language Models**, and **Human-Computer Interaction** and am eager to contribute to impactful innovations in these fields through a Ph.D.
+I am passionate about advancing research in **AI Agents**, **Large Language Models**, **Medical Image Analysis** and **Human-Computer Interaction** and am eager to contribute to impactful innovations in these fields through a Ph.D.
 
 
 {style="text-align: justify;"}
