@@ -147,7 +147,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1fxfDBHUep6HHi6BNCh3i6mOPoReTKtW8/view?usp=sharing
+    link: https://drive.google.com/file/d/1C1p68T4Sl0-HHpRqv6ZnJJZCu4t1ZRtS/view?usp=sharing
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
