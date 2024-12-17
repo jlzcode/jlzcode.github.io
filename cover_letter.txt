@@ -1,0 +1,16 @@
+Dear Admissions Committee,
+
+I am writing to express my strong interest in the PhD position focused on developing efficient medical Vision Language Models (VLM) under the supervision of Professor Xujiong Ye. Through my three years of experience in medical AI research and engineering, I have participated in impactful projects where I witnessed firsthand the transformative potential of technology in healthcare. This experience has inspired me to further explore the intersection of AI and healthcare through research.
+
+My research in AI-enhanced surgical interventions has focused on improving surgical precision and visibility. I developed a patented spatiotemporal convolution neural network for ultrasound video analysis and designed a lightweight ViT-GAN framework (PFAN) for laparoscopic smoke removal. PFAN achieves an optimal balance between accuracy and efficiency by combining CNNs' local and Transformers' global feature extraction strengths (code: https://github.com/jlzcode/PFAN).
+
+This technical experience revealed that clinical adoption requires more than just algorithmic excellence. Through close collaboration with healthcare professionals, I developed explainable AI solutions for medical diagnostics (resulting in a patent) and a Large Language Model-based clinical support system for autism spectrum disorder, achieving 85% user satisfaction. These projects demonstrated my ability to bridge the gap between technical innovation and practical clinical needs.
+
+The project's objectives strongly align with my research trajectory and expertise. The focus on efficiency optimization resonates with my experience in developing practical AI solutions for clinical settings. The multimodal integration aspect builds upon my extensive work with medical imaging and clinical text processing, while the emphasis on validation and benchmarking matches my experience in implementing and evaluating AI systems in real clinical environments. I am particularly excited about contributing to addressing the computational efficiency challenges while maintaining high performance in medical image interpretation and clinical decision-making.
+
+I understand that this position will commence on March 1, 2025, and I am fully prepared to relocate to the UK and handle the associated visa and healthcare requirements. My technical expertise, research experience, and publication record, combined with my commitment to advancing human-centered medical AI applications, make me an ideal candidate for this position. I would welcome the opportunity to discuss how my skills and experience align with your research goals.
+
+Thank you for considering my application.
+
+Sincerely,
+Jiale Zhang 

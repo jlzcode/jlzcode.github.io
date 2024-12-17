@@ -105,7 +105,21 @@ sections:
           date_start: '2024-05-01'
           date_end: '2024-08-01'
           description: |2-
-              **AI for autism intervention:** Developing an integrated AI system for childhood autism that utilizes RAG and CoT technologies to generate evaluation reports, post-intervention plans, and personalized intervention strategies based on comprehensive patient data analysis.
+              **AI for autism intervention:** Developing an integrated AI system for childhood autism that generate
+              evaluation reports, personalized intervention strategies and post-intervention plans based on patient data
+              analysis.
+
+              **Project 1：LLM-based Clinical Decision Support System (LLM-CDSS) for Autism Spectrum Disorder** 
+              - Designed and implemented an LLM-based multi-agent system where specialized agents simulate key clinical roles in ASD intervention through two main functions: conducting assessments and developing intervention plans. 
+              - Designed and conducted a large-scale clinical validation study (n=70) to evaluate the impact of LLM-CDSS on standardizing autism intervention decisions and reducing clinician-dependent variations in treatment planning.
+              - Implemented a controlled pre-post study with 4,200 randomized cases and expert-validated gold standards (n=5 senior clinicians), demonstrating significant improvements in clinical decision accuracy (17-19%), consistency (25%), and efficiency (54% time reduction, p<0.001).
+              
+              <br />
+              
+              **Project 2：AI-Powered Interactive Story Generation Platform for Children with Autism** 
+              - Developed a Stable Diffusion-based model fine-tuned with LoRA, ensuring consistent style and therapeutic value in narratives. 
+              - Implemented a dynamic prompt engineering system with context-aware templates and few-shot examples, integrating Chain-of-Thought reasoning to enhance coherence and educational impact. 
+              - Built a full-stack platform for real-time story generation and feedback, now used exclusively by therapists with over 1,000 interactions, providing engaging, adaptive stories for autistic children.
         - title: Applied Scientist
           company: Mindray
           company_url: 'https://www.mindray.com/en'
