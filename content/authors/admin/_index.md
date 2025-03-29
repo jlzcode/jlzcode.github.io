@@ -40,7 +40,7 @@ education:
   courses:
     - course: MSc in Advanced Computer Science (Artificial Intelligence)
       institution: University of Leeds, 2020
-      year: GPA 3.55/4.0, Dissertation with Distinction
+      year: GPA 3.71/4.0, Dissertation with Distinction
     - course: BSc in Information and Computing Sciences
       institution: Shenzhen University, 2019
       year: 
